@@ -1,2 +1,2 @@
-# Proyectos-Python
-Proyectos realizados en Python
+# Básicos-Python
+Proyectos básicos realizados en Python
