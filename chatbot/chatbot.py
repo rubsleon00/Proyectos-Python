@@ -1,10 +1,9 @@
 import json
 from difflib import get_close_matches
 from tkinter import Tk, Entry, Button, Text, Scrollbar
-#Esta es una aplicación de escritorio multiplataforma creada con [tkinter] que
-# simplemente actúa como un chatbot de diccionario, puede enviarle un mensaje y
-# devolverá una respuesta sobre lo que cree que es el mensaje buscándolo en un
-# diccionario muy grande.
+#Aplicación de escritorio creada con [tkinter] que
+#actúa como un chatbot. Puede enviarle un mensaje y
+# devolverá una respuesta sobre lo que cree que es el mensaje buscándolo en datos aportados.
 
 class Chatbot:
     def __init__(self, window):
